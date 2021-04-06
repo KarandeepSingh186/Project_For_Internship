@@ -1,0 +1,231 @@
+.firstarea  {
+    margin: auto;
+    width: 30%;
+    padding: 3%;
+    font-size: 144%;
+}
+.firstspan  {
+    color: white;
+    background-color: black;
+    border: 0.1% solid black;
+}
+.container  {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.topleft  {
+    position: absolute;
+    top: 43%;
+    left: 3%;
+}
+.midleft  {;
+    position: absolute;
+    top: 51%;
+    left: 3%;
+}
+.bottomleft  {
+    position: absolute;
+    top: 70%;
+    left: 3%;
+}
+.janes  {
+    color: white;
+    font-size: 300%;
+}
+.fashionblog  {
+    color: white;
+    font-size: 500%
+}
+.subscribe  {
+    font-size: 150%;
+    color: white;
+    background-color: dimgrey;
+    width: 120%;
+    height: 45%;
+    border: 1% solid dimgrey;
+    padding: 8%;
+}
+.viewport  {
+    padding: 1.5%;
+}
+.thirdsection  {
+    width: 60%;
+    padding: 0% 2.5%;    
+    float: left;
+}
+.titleheading  {
+    font-size: 200%;
+    text-align: center;
+}
+.titledescription  {
+    text-align: center;
+}
+.firsttext  {
+    font-size: 120%;
+}
+.like  {
+    width: 9%;
+    text-align: center;
+    font-size: 120%;
+    border: 1px solid grey;
+    padding: 0.4%;
+    float: left;
+}
+.replies  {
+    color: white;
+    width: 9%;
+    text-align: center;
+    font-size: 120%;
+    border: 1px solid black;
+    padding: 1%;
+    float: right;
+    background-color: black;
+}
+.solution  {
+    clear: both;
+}
+.comment  {
+    width: 80%;
+    float: right;
+    font-size: 120%;
+    line-height: 1.5;
+}
+.george  {
+    color: black;
+    font-size: 140%;
+}
+.date  {
+    color: dimgrey;
+    font-size: 100%;
+}
+.fourthsection  {
+    width: 30%;
+    float: right;
+    padding: 0% 2.5% 3% 2.5%;
+}
+.firstpart  {
+    background-color: black;
+    float: right;
+    color: white;
+}
+.firstparttext  {
+    padding: 0% 5%;
+}
+.myname  {
+    font-size: 180%;
+    padding: 0% 5%;
+}
+.fifthsection  {
+    width: 30%;
+    float: right;
+    padding: 3% 2.5%;
+}
+.firsttable  {
+    width: 100%;
+}
+.popularposts  {
+    color: white;
+    background-color: black;
+    padding: 6% 5%;
+    font-size: 180%
+}
+.innerdenim  {
+    float: right;
+    width: 75%;
+    font-size: 120%
+}
+.mercy  {
+    border: 2px solid papayawhip;
+    background-color: white
+}
+.bodyoftable  {
+    border-collapse: collapse;
+}
+.exceptionalout  {
+    padding: 4%;
+    background-color: white;
+    
+}
+.exceptionalin  {
+    text-align: center;
+    border: 1px solid papayawhip;
+    padding: 35% 3%;
+    background-color: papayawhip;
+    font-size: 120%;
+}
+.mainset  {
+    border: 2px solid white;
+    padding: 3%;
+    background-color: white;
+}
+body  {
+    background-color: papayawhip;
+}
+.begining  {
+    background-color: white;
+}
+.efficiencyoff  {
+    border: 1px solid papayawhip;
+    background-color: papayawhip;
+    font-size: 100%;
+    padding: 1%;
+}
+.efficiencyon  {
+    color: white;
+    border: 1px solid black;
+    background-color: black;
+    padding: 1%;
+    font-size: 120%;
+}
+.whitebackground  {
+    background-color: white;
+    padding: 3%;
+    line-height: 2;
+}
+.secondproblem  {
+    width: 45%;
+    padding: 2% 
+}
+.guide  {
+    font-size: 120%;
+}
+.input  {
+    font-size: 120%;
+    width: 95%;
+    padding: 1.5%
+}
+.button  {
+    color: white;
+    font-size: 120%;
+    width: 100%;
+    border: 1px solid red;
+    padding: 1.5%;
+    background-color: red;    
+}
+.solve  {
+    padding: 1% 5% 4% 5%;
+}
+.lastpart  {
+    clear: both;
+}
+.jumptotop  {
+    background-color: grey;
+    border: 2px solid grey;
+    padding: 3%;
+    font-size: 180%;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
